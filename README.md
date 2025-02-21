@@ -11,7 +11,7 @@
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 </p>
 <!-- git hub stats -->
-[![coderimspace's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderimspace&show_icons=true&theme=merko)](https://github.com/coderimspace/github-readme-stats)
+[![coderimspace's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderimspace&show_icons=true&theme=merko&cache_seconds=86400)](https://github.com/coderimspace/github-readme-stats)
 
 <!--solved.ac -->
 [![Solved.ac프로필](http://
