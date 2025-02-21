@@ -12,7 +12,7 @@
 </p>
 # 👋 Welcome to My GitHub!
 
-[![coderimspace's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderimspace&show_icons=true&theme=cobalt)](https://github.com/coderimspace/github-readme-stats)
+[![coderimspace's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderimspace&show_icons=true&theme=dracula)](https://github.com/coderimspace/github-readme-stats)
 
 <br/>
 
