@@ -10,7 +10,7 @@ my tech stacks :<br>
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 
 my link :<br>
-<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@keepcoing/posts"> </a>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=keepcoing)](https://velog.io/@keepcoing)
 
 
 <!--
