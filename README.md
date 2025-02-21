@@ -10,6 +10,6 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 </p>
-[![coderimspace's GitHub stats](http://github-readme-stats.vercel.app/api?username=coderimspace&show-icons=true&theme=tokyonight)](http://github.com/coderimspace/github-readme-stats)
+[![coderimspace's GitHub stats](http://github-readme-stats.verce].app/api?username=coderimspace&show-icons=true&theme=merko)](http://github.com/coderimspace/github-readme-stats)
 my velog link :<br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=keepcoing)](https://velog.io/@keepcoing)
