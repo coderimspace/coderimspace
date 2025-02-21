@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=25&pause=1000&color=F778AC&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=WELCOME+TO+MY+SPACE)](https://git.io/typing-svg)
 
 
-<img src="https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=fortran&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=fortran&logoColor=white" />
 <!--
 **coderimspace/coderimspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
