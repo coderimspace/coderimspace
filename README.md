@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=25&pause=1000&color=F778AC&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=WELCOME+TO+MY+SPACE)](https://git.io/typing-svg)
 
-## MY TECH STACKS
+# MY TECH STACKS
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
@@ -10,7 +10,15 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 </p>
-[![coderimspace's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderimspace&show_icons=true&theme=merko)](http://github.com/coderimspace/github-readme-stats)
+<!-- git hub stats -->
+[![coderimspace's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderimspace)](https://github.com/coderimspace/github-readme-stats)
+
+<!--solved.ac -->
+[![Solved.ac프로필](http://
+
+
+
+<!-- velog link -->
 <br>
 my velog link :<br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=keepcoing)](https://velog.io/@keepcoing)
