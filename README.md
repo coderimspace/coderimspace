@@ -10,11 +10,15 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 </p>
-# 👋 Welcome to My GitHub!
+# MY GIT STATS
 
 [![coderimspace's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderimspace&show_icons=true&theme=dracula)](https://github.com/coderimspace/github-readme-stats)
 
 <br/>
 
-### 🚀 My Velog  
+# ALOGORITHM
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkrnrmrqhr)](https://solved.ac/wkrnrmrqhr)
+
+# MY VELOG
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=keepcoing)](https://velog.io/@keepcoing)
