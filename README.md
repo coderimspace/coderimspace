@@ -34,7 +34,7 @@
 ## 💻 Algorithm Solving
 <p align="center">
   <a href="https://solved.ac/wkrnrmrqhr">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkrnrmrqhr" height="150">
+    ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wkrnrmrqhr&theme=warm)
   </a>
 </p>
 
