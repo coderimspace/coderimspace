@@ -33,9 +33,7 @@
 
 ## 💻 Algorithm Solving
 <p align="center">
-  <a href="https://solved.ac/wkrnrmrqhr">
-    ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wkrnrmrqhr&theme=warm)
-  </a>
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wkrnrmrqhr&theme=warm)
 </p>
 
 ---
