@@ -33,7 +33,7 @@
 
 ## 💻 Algorithm Solving
 <p align="center">
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wkrnrmrqhr&theme=warm)
+  <img src="http://mazandi.herokuapp.com/api?handle=wkrnrmrqhr&theme=warm"/>
 </p>
 
 ---
